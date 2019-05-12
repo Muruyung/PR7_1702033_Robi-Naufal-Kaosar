@@ -1,5 +1,10 @@
 <br>
 <br>
+<style media="screen">
+  table {
+    background-color: green;
+  }
+</style>
 <?php
 if ($jenis == 'kiri'){
   ?>
