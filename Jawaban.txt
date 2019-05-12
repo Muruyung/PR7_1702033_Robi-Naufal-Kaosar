@@ -1,0 +1,3 @@
+Left join = Left join akan menampilkan semua data dan akan null jika tidak berelasi (dengan kiri)
+Right Join = Right join akan menampilkan semua data dan akan null jika tidak berelasi (dengan kanan)
+Inner Join =Menampilkan hanya data-data yang berelasis
